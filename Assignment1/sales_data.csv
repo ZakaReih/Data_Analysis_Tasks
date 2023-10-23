@@ -1,0 +1,101 @@
+Order_id,date,product,price,quantity,total_num
+1,12/16/2022,Pears - Fiorelle,2500,15,37500
+2,5/18/2023,Potatoes - Mini White 3 Oz,3220,16,51520
+2,3/7/2023,Tequila Rose Cream Liquor,3940,17,66980
+1,11/18/2022',Bread Ww Cluster,4660,18,83880
+5,11/18/2022',Milk - Skim,5380,19,102220
+6,11/18/2022',,6100,20,122000
+7,11/18/2022',Cheese Cloth,6820,21,143220
+8,,Tilapia - Fillets,7540,22,165880
+9,,Oregano - Fresh,8260,23,189980
+10,,"Tart Shells - Sweet, 2",8980,24,215520
+11,11/18/2022',Cookies - Assorted,9700,25,242500
+11,11/18/2022',Island Oasis - Raspberry,10420,26,270920
+11,11/18/2022',,11140,27,300780
+14,8/29/2023,,11860,28,332080
+15,10/22/2022,,12580,29,364820
+16,9/5/2023,Beans - French,13300,30,399000
+17,8/24/2023,Wine - Masi Valpolocell,68800,31,2132800
+18,11/5/2022,Curry Paste - Green Masala,6900,18,124200
+1,10/6/2022,Soup - Campbells Broccoli,5600,19,106400
+1,9/13/2022,Chocolate - Dark,4300,20,86000
+1,8/11/2023,Buttons,3000,21,63000
+22,8/3/2023,"Doilies - 5, Paper",1700,22,37400
+2,5/25/2023,Salmon Atl.whole 8 - 10 Lb,400,23,9200
+2,6/7/2023,"Pork - Tenderloin, Frozen",5600,24,134400
+25,,Truffle Cups - Brown,7800,25,195000
+26,,Lettuce - Belgian Endive,70600,26,1835600
+5,,Sultanas,12220,27,329940
+5,1/16/2023,Nori Sea Weed - Gold Label,35500,28,994000
+5,2/10/2023,Nestea - Iced Tea,15000,29,435000
+30,1/30/2023,"Roe - Lump Fish, Black",2200,30,66000
+31,1/2/2023,Venison - Racks Frenched,2900,31,89900
+32,11/23/2022,,3600,32,115200
+6,1/4/2023,"Wine - Red, Antinori Santa",4300,33,141900
+6,12/30/2022,Cumin - Ground,5000,34,170000
+6,7/8/2023,Wine - Port Late Bottled Vintage,5700,35,199500
+36,5/4/2023,Tea - Decaf Lipton,6400,36,230400
+37,9/6/2023,"Wine - White, Schroder And Schyl",7100,37,262700
+38,2/2/2023,"Doilies - 8, Paper",7800,12,93600
+7,7/20/2023,Squash - Butternut,8500,13,110500
+7,10/8/2022,Chivas Regal - 12 Year Old,9200,14,128800
+41,4/3/2023,Cookies - Amaretto,9900,15,148500
+42,3/29/2023,"Lamb - Shoulder, Boneless",10600,16,169600
+43,12/16/2022,"Nut - Walnut, Pieces",11300,17,192100
+5,8/28/2023,"Tea - Darjeeling, Azzura",12000,18,216000
+5,10/28/2022,"Iced Tea - Lemon, 460 Ml",12700,19,241300
+5,12/20/2022,Sugar - Palm,13400,20,268000
+5,7/13/2023,"Arctic Char - Fresh, Whole",14100,21,296100
+5,5/1/2023,Tea - Decaf Lipton,14800,48,710400
+49,10/7/2022,Amarula Cream,15500,23,356500
+50,2/5/2023,Wine - Spumante Bambino White,16200,24,388800
+51,7/11/2023,Appetizer - Shrimp Puff,16900,25,422500
+52,11/3/2022,Rabbit - Legs,17600,26,457600
+53,12/3/2022,Lettuce - Frisee,18300,27,494100
+54,3/15/2023,Dr. Pepper - 355ml,19000,28,532000
+55,7/30/2023,Bread - French Baquette,19700,29,571300
+56,11/9/2022,The Pop Shoppe - Lime Rickey,20400,30,612000
+57,11/9/2022,Island Oasis - Wildberry,21100,31,654100
+58,2/19/2023,Flour Dark Rye,15150,32,484800
+59,3/29/2023,Bread - White Epi Baguette,16980,33,560340
+60,9/20/2022,"Cheese - Havarti, Salsa",18810,34,639540
+61,6/8/2023,Oil - Grapeseed Oil,20640,35,722400
+62,12/14/2022,Dome Lid Clear P92008h,22470,36,808920
+63,10/4/2022,Cake Slab,24300,37,899100
+64,12/16/2022,Horseradish Root,26130,38,992940
+65,5/3/2023,Currants,27960,39,1090440
+66,10/10/2022,Chips - Miss Vickies,29790,66,1966140
+67,7/21/2023,Beer - Blue,31620,67,2118540
+68,10/16/2022,Soup Campbells Turkey Veg.,33450,68,2274600
+68,3/27/2023,Apple - Macintosh,3520,69,242880
+68,11/22/2022,"Quail - Whole, Bone - In",37110,70,2597700
+68,7/11/2023,Sauce Tomato Pouch,5505,71,390855
+72,4/20/2023,Capon - Whole,6550,72,471600
+73,7/2/2023,Water - Spring Water 500ml,7595,73,554435
+74,2/23/2023,Clementine,8640,74,639360
+75,4/16/2023,Creme De Cacao Mcguines,9685,75,726375
+76,8/8/2023,Pails With Lids,10730,76,815480
+76,12/11/2022,Celery,11775,77,906675
+76,9/16/2022,"Lamb - Whole, Fresh",12820,78,999960
+79,2/22/2023,Mangoes,13865,,0
+80,10/25/2022,Muffin Mix - Lemon Cranberry,14910,,0
+81,8/25/2023,Water - San Pellegrino,15955,,0
+82,9/10/2022,Beef Wellington,17000,82,1394000
+83,8/7/2023,Wine - Prosecco Valdobiaddene,18045,65,1172925
+84,2/4/2023,"Soup - Campbells, Beef Barley",2380,65,154700
+85,7/19/2023,"Coconut - Shredded, Sweet",2560,67,171520
+86,,Yoplait Drink,2740,69,189060
+87,,Bread - Sour Batard,2920,71,207320
+88,,Cups 10oz Trans,3100,73,226300
+89,10/13/2022,"Wine - Red, Mouton Cadet",3280,75,246000
+90,4/5/2023,Corn - Mini,3460,77,266420
+91,12/2/2022,Buffalo - Tenderloin,3640,79,287560
+91,9/2/2023,Sprite - 355 Ml,3820,81,309420
+91,11/10/2022,Cake - Bande Of Fruit,4000,83,332000
+94,4/2/2023,"Artichoke - Hearts, Canned",4180,85,355300
+95,1/14/2023,Milk - Skim,4360,87,379320
+96,7/1/2023,English Muffin,4540,89,404060
+97,10/1/2022,Sugar - Splenda Sweetener,4720,91,429520
+97,11/4/2022,Bread - Raisin,4900,93,455700
+97,11/30/2022,"Juice - Orange, 341 Ml",5080,95,482600
+100,2/24/2023,"Oil - Truffle, White",12120,97,1175640
